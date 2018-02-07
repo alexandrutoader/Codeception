@@ -1,0 +1,7 @@
+users:
+    admin:
+        username: 'test@test.com'
+        password: 'xxxxxx'
+    other:
+        username: 'some.user@gmail.com'
+        password: '111111'

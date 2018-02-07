@@ -1,0 +1,6 @@
+{
+    "name": "alexandru.toader/github",
+    "require": {
+        "codeception/codeception": "^2.3"
+    }
+}
